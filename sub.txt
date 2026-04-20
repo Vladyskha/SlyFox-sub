@@ -1,6 +1,7 @@
 #profile-title: base64:U2x5Rm94IPCfpoo=
 #profile-update-interval: 24
 #support-url: https://github.com/Vladyskha/SlyFox-sub
+#profile-description: 🦊 SlyFox VPN | Бета 1.0\n\nVPN находится на стадии бета-тестирования и может работать нестабильно.\nПо всем вопросам, ошибкам и предложениям: @vladyskha\n\nСпасибо, что тестируете SlyFox VPN.
 
 vless://37d69c43-794b-4a76-9e75-9c27e6d0a0b3@auto.akr.run:443?mode=gun&security=reality&encryption=none&pbk=3BE3aU-o2yArtNTUUThiGmVDSbHIufPtQlp0CqctazY&fp=chrome&type=grpc&serviceName=Vl9AFubMLC2nIgDy&sni=bunny.net#🇪🇺 Глобальный VPN | SlyFox 🦊
 vless://884a8b4c-67dd-497f-b4c1-f911c49cca17@slyfox.bot.nu:443?security=reality&encryption=none&pbk=5S-HheLrsXC6OuQSvbFU_5EJ-Q9FWMHWkWPsNj2NIxY&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=sub.slyfox.bot.nu&sid=972f89fbad177c16#🇩🇪 Германия | SlyFox 🦊
@@ -451,4 +452,4 @@ vless://37d69c43-794b-4a76-9e75-9c27e6d0a0b3@144.31.129.225:443?security=reality
 
 vless://9c3c8f8c-32a8-4c7c-b65f-89c897914acf@85.239.48.142:443?mode=gun&security=reality&encryption=none&authority=host&pbk=8duCoWl7dv9j9Mt5NpbrrOADsAdLuZC-2YwlcX-71Dc&fp=random&spx=%2F&type=grpc&serviceName=rutube&sni=rutube.ru%3A443&sid=15318b9c28#🇷🇺 Россия (Обход #1) | SlyFox 🦊
 vless://9c3c8f8c-32a8-4c7c-b65f-89c897914acf@92.53.105.80:443?mode=gun&security=reality&encryption=none&authority=host&pbk=8duCoWl7dv9j9Mt5NpbrrOADsAdLuZC-2YwlcX-71Dc&fp=random&spx=%2F&type=grpc&serviceName=rutube&sni=rutube.ru%3A443&sid=15318b9c28#🇷🇺 Россия (Обход #2) | SlyFox 🦊
-vless://9c3c8f8c-32a8-4c7c-b65f-89c897914acf@194.87.140.146:9443?mode=gun&security=reality&encryption=none&authority=host&pbk=89Ue0iCb54oFF82DZ97N949iCa2dWIvJPAX2hB50YTM&fp=random&spx=%2F&type=grpc&serviceName=grpc&sni=vkvideo.ru%3A443&sid=15318b9c28#🇷🇺 Россия (Обход #3) | SlyFox 🦊 
+vless://9c3c8f8c-32a8-4c7c-b65f-89c897914acf@194.87.140.146:9443?mode=gun&security=reality&encryption=none&authority=host&pbk=89Ue0iCb54oFF82DZ97N949iCa2dWIvJPAX2hB50YTM&fp=random&spx=%2F&type=grpc&serviceName=grpc&sni=vkvideo.ru%3A443&sid=15318b9c28#🇷🇺 Россия (Обход #3) | SlyFox 🦊
