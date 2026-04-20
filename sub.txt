@@ -450,6 +450,6 @@ vless://37d69c43-794b-4a76-9e75-9c27e6d0a0b3@144.31.129.225:443?security=reality
   }
 }
 
-vless://9c3c8f8c-32a8-4c7c-b65f-89c897914acf@85.239.48.142:443?mode=gun&security=reality&encryption=none&authority=host&pbk=8duCoWl7dv9j9Mt5NpbrrOADsAdLuZC-2YwlcX-71Dc&fp=random&spx=%2F&type=grpc&serviceName=rutube&sni=rutube.ru%3A443&sid=15318b9c28#🇷🇺 Россия (Обход #1) | SlyFox 🦊
-vless://9c3c8f8c-32a8-4c7c-b65f-89c897914acf@92.53.105.80:443?mode=gun&security=reality&encryption=none&authority=host&pbk=8duCoWl7dv9j9Mt5NpbrrOADsAdLuZC-2YwlcX-71Dc&fp=random&spx=%2F&type=grpc&serviceName=rutube&sni=rutube.ru%3A443&sid=15318b9c28#🇷🇺 Россия (Обход #2) | SlyFox 🦊
-vless://9c3c8f8c-32a8-4c7c-b65f-89c897914acf@194.87.140.146:9443?mode=gun&security=reality&encryption=none&authority=host&pbk=89Ue0iCb54oFF82DZ97N949iCa2dWIvJPAX2hB50YTM&fp=random&spx=%2F&type=grpc&serviceName=grpc&sni=vkvideo.ru%3A443&sid=15318b9c28#🇷🇺 Россия (Обход #3) | SlyFox 🦊
+vless://9c3c8f8c-32a8-4c7c-b65f-89c897914acf@85.239.48.142:443?mode=gun&security=reality&encryption=none&authority=host&pbk=8duCoWl7dv9j9Mt5NpbrrOADsAdLuZC-2YwlcX-71Dc&fp=random&spx=%2F&type=grpc&serviceName=rutube&sni=rutube.ru%3A443&sid=15318b9c28#🇷🇺 RU | Обход #1
+vless://9c3c8f8c-32a8-4c7c-b65f-89c897914acf@92.53.105.80:443?mode=gun&security=reality&encryption=none&authority=host&pbk=8duCoWl7dv9j9Mt5NpbrrOADsAdLuZC-2YwlcX-71Dc&fp=random&spx=%2F&type=grpc&serviceName=rutube&sni=rutube.ru%3A443&sid=15318b9c28#🇷🇺 RU | Обход #2
+vless://9c3c8f8c-32a8-4c7c-b65f-89c897914acf@194.87.140.146:9443?mode=gun&security=reality&encryption=none&authority=host&pbk=89Ue0iCb54oFF82DZ97N949iCa2dWIvJPAX2hB50YTM&fp=random&spx=%2F&type=grpc&serviceName=grpc&sni=vkvideo.ru%3A443&sid=15318b9c28#🇷🇺 RU | Обход #3
