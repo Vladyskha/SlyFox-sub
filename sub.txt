@@ -8,6 +8,6 @@ vless://884a8b4c-67dd-497f-b4c1-f911c49cca17@slyfox.bot.nu:443?security=reality&
 vless://f69f496c-662b-4dab-9176-2354105aebb8@slyfox.bot.nu:443?path=%2F40026%2F52ckhQBWPi&security=tls&encryption=none&host=slyfox.bot.nu&type=ws&sni=slyfox.bot.nu#🇩🇪 Германия | SlyFox 🦊
 vless://321f5567-1c99-48f7-b871-f38c56952916@slyfox.bot.nu:443?mode=packet-up&path=%2Foj9QZwo1Rp&security=tls&encryption=none&type=xhttp#🇩🇪 Германия | SlyFox 🦊
 trojan://j2euiL5HDP@slyfox.bot.nu:443?mode=gun&security=tls&authority=slyfox.bot.nu&type=grpc&serviceName=%2F42609%2FZ0nrtmW0mh&sni=slyfox.bot.nu#🇩🇪 Германия | SlyFox 🦊
-hysteria2://Admin%3A278a38947158ff13788e83387b1da7a3@slyfox.undo.it:443?security=tls&insecure=0&sni=slyfox.undo.it#🇫🇮 Финляндия (Игровой) | SlyFox 🦊
+hysteria2://Admin%3A278a38947158ff13788e83387b1da7a3@slyfox.undo.it:443?security=tls&insecure=0&sni=slyfox.undo.it#%F0%9F%87%AB%F0%9F%87%AE%20FN%2FUS%2FUK%20%28WiFi%29%20%7C%20SlyFox%20%F0%9F%A6%8A
 hysteria2://vladyskha%3AzmX2VrnNXnNCR2rTI57IiThCdd353A40@45.128.96.49:1935?security=tls&obfs=salamander&obfs-password=4SidtdpjzrvuMlHoViAwvDrkX1lbAYxi&insecure=1&pinSHA256=83%3A4A%3A1E%3AE9%3A78%3A6D%3A7E%3A8F%3AFF%3ABD%3A42%3A39%3ACF%3A61%3ABA%3AFC%3AA4%3AAB%3A81%3A18%3A50%3A37%3A82%3A4F%3A2D%3A37%3AF6%3ACD%3A52%3A6D%3A18%3A2D&sni=github.com#🇳🇱 Нидерланды (YouTube без рекламы) | SlyFox 🦊
 
