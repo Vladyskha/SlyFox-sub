@@ -1,4 +1,4 @@
-#profile-title: base64:U2x5Rm94IPCfpoo=
+#profile-title: base64:U2x5Rm94IPCfpoogYmV0YSAxLjAgfCBAdmxhZHlza2hh
 #profile-update-interval: 24
 #support-url: https://github.com/Vladyskha/SlyFox-sub
 #profile-description: SlyFox VPN beta 1.0. Возможны сбои. Поддержка: @vladyskha
