@@ -1,7 +1,7 @@
-#profile-title: base64:U2x5Rm94IPCfpoogfCBCZXRhIDEuMCDigJQgQHZsYWR5c2toYQ==
+#profile-title: base64:U2x5Rm94IPCfpoo=
 #profile-update-interval: 24
 #support-url: https://github.com/Vladyskha/SlyFox-sub
-#profile-description: SlyFox 🦊
+#profile-description: SlyFox VPN beta 1.0. Возможны сбои. Поддержка: @vladyskha
 
 vless://37d69c43-794b-4a76-9e75-9c27e6d0a0b3@auto.akr.run:443?mode=gun&security=reality&encryption=none&pbk=3BE3aU-o2yArtNTUUThiGmVDSbHIufPtQlp0CqctazY&fp=chrome&type=grpc&serviceName=Vl9AFubMLC2nIgDy&sni=bunny.net#%F0%9F%87%AA%F0%9F%87%BA%20Global%20%7C%20SlyFox%20%F0%9F%A6%8A
 hysteria2://slyfox%3A0dAyYRah4SWNtvlRf1m1EZ8KuYlYJ7mK@2.26.125.223:1935?security=tls&obfs=salamander&obfs-password=dD3XKrap156xakgQAd1NoWI2UP8U7UZz&insecure=1&pinSHA256=1E%3A54%3A65%3ADA%3AE0%3AF9%3A13%3A04%3AA4%3AE3%3A9F%3AE3%3AB1%3A73%3A04%3A19%3A81%3ABD%3ABE%3A33%3A1E%3A0D%3A3E%3AF3%3ACF%3A3D%3ACC%3ACF%3AF7%3A3D%3A02%3A8E&sni=github.com#%F0%9F%87%A9%F0%9F%87%AA%20DE%2FUS%2FUK%20%28Mobile%29%20%7C%20SlyFox%20%F0%9F%A6%8A
