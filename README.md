@@ -1,1 +1,1 @@
-Hello everyone
+По всем вопросам пишите мне в tg @vladyskha
