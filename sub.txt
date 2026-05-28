@@ -3,7 +3,7 @@
 #profile-description: SlyFox VPN beta 1.0. Возможны сбои. Поддержка: @vladyskha
 #support-url: https://github.com/Vladyskha/SlyFox-sub
 
-vless://37d69c43-794b-4a76-9e75-9c27e6d0a0b3@auto.akr.run:443?mode=gun&security=reality&encryption=none&pbk=3BE3aU-o2yArtNTUUThiGmVDSbHIufPtQlp0CqctazY&fp=chrome&type=grpc&serviceName=Vl9AFubMLC2nIgDy&sni=bunny.net#🇪🇺 Global | SlyFox 🦊
+vless://37d69c43-794b-4a76-9e75-9c27e6d0a0b3@auto.akr.run:443?mode=gun&security=reality&encryption=none&pbk=3BE3aU-o2yArtNTUUThiGmVDSbHIufPtQlp0CqctazY&fp=chrome&type=grpc&serviceName=Vl9AFubMLC2nIgDy&sni=bunny.net#%F0%9F%87%AA%F0%9F%87%BA%20%D0%90%D0%B2%D1%82%D0%BE%D0%B2%D1%8B%D0%B1%D0%BE%D1%80
 vless://35b6a5d8-41c2-4d40-9b22-b43b9d3ebd33@slyyfox.ohbah.com:443?security=reality&encryption=none&pbk=5HGjhHF1uDsbVstJNDeleGsdYVTYfyWizbXyQaqbWGc&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=sub.slyyfox.ohbah.com&sid=4e7e0d0d62500a5e#🇬🇧 UK/US/FN | SlyFox 🦊
 trojan://OIZGTqcEYY@slyyfox.ohbah.com:443?mode=gun&security=tls&authority=slyyfox.ohbah.com&type=grpc&serviceName=%2F24134%2FlJB2ctlIa2&sni=slyyfox.ohbah.com#🇬🇧UK/US/FN #2 | SlyFox 🦊
 vless://e6c1e5ad-c66d-434d-82a6-09e94a154dac@slyyfox.ohbah.com:443?path=%2F58531%2F33aFfwhBaG&security=tls&encryption=none&host=slyyfox.ohbah.com&type=ws&sni=slyyfox.ohbah.com#🇺🇸US/UK/FN | SlyFox 🦊
